@@ -3,6 +3,11 @@
 ### 
 ### 
 ### 과정 목표: 데이터 기반의 의사결정 및 문제해결 능력 향상
+##  1일차: 데이터 수집
+##  2일차: 예측분석
+##  3일차: Deep Learning
+##  4칠차: 다양한 응용
+
 
 ###
 ### [강의교안(머신러닝 교안)](https://drive.google.com/file/d/1q5GHcolmx-FAyghXBCpeYD6mFzZd3Sr6/view?usp=sharing)
