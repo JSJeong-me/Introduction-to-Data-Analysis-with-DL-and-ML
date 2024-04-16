@@ -10,7 +10,7 @@
 
 
 ###
-### [강의교안(머신러닝 교안)](https://drive.google.com/file/d/1q5GHcolmx-FAyghXBCpeYD6mFzZd3Sr6/view?usp=sharing)
+### [강의교안(Deep Learning)](https://drive.google.com/file/d/1wPGzz1452g2cKfN3-pr1rbf1OJl4yMOo/view?usp=sharing)
 ### [실습파일](https://docs.google.com/spreadsheets/d/1Xs3mpEWk8eW_3dyd7N7yqtjbZQm6Jfzws3NHbeLjY9k/edit?usp=sharing)
 ###
 ###
