@@ -10,8 +10,8 @@
 
 
 ###
-### [강의교안(Deep Learning)](https://drive.google.com/file/d/1wPGzz1452g2cKfN3-pr1rbf1OJl4yMOo/view?usp=sharing)
-### [실습파일](https://docs.google.com/spreadsheets/d/1Xs3mpEWk8eW_3dyd7N7yqtjbZQm6Jfzws3NHbeLjY9k/edit?usp=sharing)
+### [강의교안(Deep Learning)]()
+### [실습파일]()
 ###
 ###
 ![curriculum](https://github.com/JSJeong-me/Introduction-to-Data-Analysis-with-Deep-Learning-and-Machine-Learning/assets/54794815/e87e25cf-0f9b-454b-b403-b12ce9d9d2bc)
